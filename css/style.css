@@ -108,8 +108,8 @@ body a{
 }
 .top-nav ul li.active a,
 .top-nav ul li a:hover{
-	color:#FC645F;
-	border-bottom:3px solid #FC645F;
+	color: #007bff;
+	border-bottom:3px solid #007bff;
 }
 .logo a{
 	display:block;
@@ -189,7 +189,7 @@ nav a#pull {
 	nav a#pull {
 		display: block;
 		position: relative;
-		color: #F26D7D;
+		color: #007bff;
 		text-align: right;
 		position: absolute;
 		top:12px;
@@ -252,7 +252,7 @@ nav a#pull {
 	margin-left:0.5em;
 }
 .header-info h1 label{
-	color:#FC645F;
+	color:#007bff;
 }
 .header-info p{
 	color: #fff;
@@ -262,9 +262,9 @@ nav a#pull {
 	margin: 0.5em 0 2em;
 }
 .header-info a.big-btn{
-	color: #FC645F;
+	color: #007bff;
 	font-size: 1.45em;
-	border: 2px solid #FC645F;
+	border: 2px solid #007bff;
 	padding: 0.45em 1.3em;
 	display: inline-block;
 	transition: border-color 0.4s;
@@ -334,7 +334,7 @@ label.mouse-divice{
 	font-family: 'open_sanssemibold';
 }
 .about-head h3 span{
-	color:#FC635E;
+	color: #007bff;
 }
 .about-head p{
 	color: #ADADAD;
@@ -357,7 +357,7 @@ label.mouse-divice{
 	background:#868686;
 }
 .about-grid h3 span{
-	color:#FC635E;
+	color: #007bff;
 }
 .about-grid span{
 	width: 101px;
@@ -405,12 +405,12 @@ a.about-down-icon span{
 	margin: 0.3em 0 1em;
 }
 .expand-info h2 span{
-	color:#FC635E;
+	color:#007bff;
 }
 a.expand-btn{
-	color: #FC645F;
+	color: #007bff;
 	font-size: 1.45em;
-	border: 2px solid #FC645F;
+	border: 2px solid #007bff;
 	padding: 0.45em 2.6em;
 	display: inline-block;
 	transition: border-color 0.4s;
@@ -490,7 +490,7 @@ a.p-down-arrow span {
 	font-size: 1.7em;
 }
 .wedo-head h3 span{
-	color:#FC635E;
+	color:#007bff;
 } 
 a.wedobtn{
 		
@@ -501,7 +501,7 @@ a.wedobtn{
 	text-transform:uppercase;
 }
 .wedo-left h4 label{
-	background: #FC635E;
+	background: #007bff;
 	width: 12px;
 	height: 47px;
 	display: inline-block;
@@ -514,7 +514,7 @@ a.wedobtn{
 	font-family: 'open_sanslight';
 }
 a.wedobtn{
-	background: #FC635E;
+	background: #007bff;
 	color: #FFF;
 	padding: 0.7em 1.8em;
 	display: inline-block;
@@ -555,7 +555,7 @@ a.w-down-arrow span {
 	text-transform:uppercase;
 }
 .advertising-right h4 label{
-	background: #FC635E;
+	background: #007bff;
 	width: 12px;
 	height: 47px;
 	display: inline-block;
@@ -592,7 +592,7 @@ a.ad-down-arrow span {
 	text-transform:uppercase;
 }
 .marketing-left h4 label{
-	background: #FC635E;
+	background: #007bff;
 	width: 12px;
 	height: 47px;
 	display: inline-block;
@@ -647,7 +647,7 @@ a.mr-down-arrow span {
 		display: inline-block;
 		padding: 16px 30px;
 		text-decoration: none;
-		color: #FC635E;
+		color: #007bff;
 		cursor: pointer;
 		font-size: 1em;
 		font-weight: 400;
@@ -656,7 +656,7 @@ a.mr-down-arrow span {
 		margin-right: 0.5em;
 	}
 	#filters li span.active {
-		color: #F16D7D;
+		color: #007bff;
 	}
  	#portfoliolist .portfolio {
 		-webkit-box-sizing: border-box;
@@ -764,7 +764,7 @@ a.mr-down-arrow span {
 	top:0;
 	bottom:0;
 	width:20%;
-	background:rgba(243, 103, 89, 0.8);
+	background:#007bff;
 	transition:all 0.5s linear;
 	-moz-transition:all 0.5s linear;
 	-ms-transition:all 0.5s linear;
@@ -842,7 +842,7 @@ a.mr-down-arrow span {
 .b-from-left{
 	position: relative;
 	left: -100%;
-	background: rgba(214, 95, 88, 0.95);
+	background: #007bff;
 	height: 100%;
 	margin: 0;
 }
@@ -879,7 +879,7 @@ p.m_5 {
 }
 /*----*/
 a.load-ports{
-	background: #FC635E;
+	background: #007bff;
 	color: #FFF;
 	padding: 0.9em 2em;
 	display: inline-block;
@@ -934,7 +934,7 @@ span.port-mouse{
 	display:inline-block;
 }
 .team-head h4 span{
-	color:#FC635E;
+	color:#007bff;
 }
 .team-members{
 	padding:3em 0;
@@ -948,7 +948,7 @@ span.port-mouse{
 	padding: 0.5em 0 0.1em;
 }
 .team-member h5 span{
-	color:#FC635E;
+	color:#007bff;
 }
 .team-member label{
 	color:#565656;
@@ -1008,7 +1008,7 @@ span.port-mouse{
 	font-size:1.6em;
 }
 .test-people-name h4 span{
-	color:#FC635E;
+	color: #007bff;
 }
 .test-people-name label{
 	color:#818181;
@@ -1058,7 +1058,7 @@ p.copy-right{
 	margin-top:1em;
 }
 p.copy-right a{
-	color:#FC635E;
+	color:#007bff;
 	text-decoration:none;
 }
 p.copy-right a:hover{
