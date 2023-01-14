@@ -350,10 +350,10 @@ a.down-arrow-to:hover {
 }
 
 a.down-arrow span {
-	width: 28px;
-	height: 28px;
+	width: 30px;
+	height: 30px;
 	display: block;
-	background: url(../images/down-arrow.png) no-repeat 0px 0px;
+	background: url(../images/down-arrow.svg) no-repeat 0px 0px;
 	position: absolute;
 	bottom: -43%;
 	left: 49%;
@@ -446,10 +446,10 @@ label.mouse-divice {
 }
 
 a.about-down-icon span {
-	width: 28px;
-	height: 28px;
+	width: 30px;
+	height: 30px;
 	display: inline-block;
-	background: url(../images/arrow1.png) no-repeat 0px 0px;
+	background: url(../images/arrow1.svg) no-repeat 0px 0px;
 	position: absolute;
 	left: 50%;
 	bottom: 8%;
@@ -520,10 +520,10 @@ span.w-mouse {
 }
 
 a.e-down-arrow span {
-	width: 28px;
-	height: 28px;
+	width: 30px;
+	height: 30px;
 	display: block;
-	background: url(../images/down-arrow.png) no-repeat 0px 0px;
+	background: url(../images/down-arrow.svg) no-repeat 0px 0px;
 	position: absolute;
 	bottom: 4%;
 	left: 49%;
@@ -541,10 +541,10 @@ a.e-down-arrow span {
 }
 
 a.p-down-arrow span {
-	width: 28px;
-	height: 28px;
+	width: 30px;
+	height: 30px;
 	display: block;
-	background: url(../images/down-arrow.png) no-repeat 0px 0px;
+	background: url(../images/down-arrow.svg) no-repeat 0px 0px;
 	position: absolute;
 	bottom: 4%;
 	left: 49%;
@@ -617,10 +617,10 @@ a.wedobtn:hover {
 }
 
 a.w-down-arrow span {
-	width: 28px;
-	height: 28px;
+	width: 30px;
+	height: 30px;
 	display: block;
-	background: url(../images/down-arrow.png) no-repeat 0px 0px;
+	background: url(../images/down-arrow.svg) no-repeat 0px 0px;
 	position: absolute;
 	bottom: 4%;
 	left: 49%;
@@ -656,10 +656,10 @@ a.w-down-arrow span {
 }
 
 a.ad-down-arrow span {
-	width: 28px;
-	height: 28px;
+	width: 30px;
+	height: 30px;
 	display: block;
-	background: url(../images/down-arrow.png) no-repeat 0px 0px;
+	background: url(../images/down-arrow.svg) no-repeat 0px 0px;
 	position: absolute;
 	bottom: 4%;
 	left: 49%;
@@ -697,10 +697,10 @@ a.ad-down-arrow span {
 }
 
 a.mr-down-arrow span {
-	width: 28px;
-	height: 28px;
+	width: 30px;
+	height: 30px;
 	display: block;
-	background: url(../images/down-arrow.png) no-repeat 0px 0px;
+	background: url(../images/down-arrow.svg) no-repeat 0px 0px;
 	position: absolute;
 	bottom: 4%;
 	left: 49%;
@@ -1048,10 +1048,10 @@ a.load-ports {
 }
 
 a.port-down-arrow {
-	width: 28px;
-	height: 28px;
+	width: 30px;
+	height: 30px;
 	display: block;
-	background: url(../images/down-arrow.png) no-repeat 0px 0px;
+	background: url(../images/down-arrow.svg) no-repeat 0px 0px;
 	position: absolute;
 	bottom: 4%;
 	left: 49%;
@@ -2191,7 +2191,7 @@ p.copy-right a:hover {
 	.advertising-right h4 label,
 	.marketing-left h4 label {
 		width: 6px;
-		height: 28px;
+		height: 30px;
 	}
 
 	.wedo-left p {
