@@ -369,7 +369,6 @@ label.mouse-divice {
 	left: 57.9%;
 	font-family: 'open_sanssemibold';
 }
-
 /*--- about ----*/
 .about {
 	padding: 3em 0 6em;
@@ -664,6 +663,8 @@ a.ad-down-arrow span {
 	bottom: 4%;
 	left: 49%;
 }
+
+
 
 /*---- marketing ----*/
 .marketing {
@@ -2264,4 +2265,15 @@ p.copy-right a:hover {
 	.team-member label {
 		font-size: 0.9em;
 	}
+
+
+}
+
+form .btn-submit {
+	background-color: #289dcc;
+}
+
+
+form .btn-submit:hover {
+	background-color: #868686;;
 }
