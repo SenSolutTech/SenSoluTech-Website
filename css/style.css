@@ -2277,3 +2277,12 @@ form .btn-submit {
 form .btn-submit:hover {
 	background-color: #868686;;
 }
+
+.footer-menu {
+	text-decoration: none;
+	color: white;
+}
+
+.footer-logo {
+	width: 60%;
+}
