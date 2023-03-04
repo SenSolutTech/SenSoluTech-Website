@@ -77,7 +77,8 @@ body a {
 .bga {
 	background: url(../images/bg.jpg) no-repeat 0px 0px;
 	background-size: cover;
-	min-height: 760px;
+	min-height: 800px;
+
 }
 
 .header {}
@@ -2276,6 +2277,7 @@ form .btn-submit {
 form .btn-submit:hover {
 	background-color: #868686;;
 }
+<<<<<<< HEAD
 
 .footer-menu {
 	text-decoration: none;
@@ -2285,3 +2287,5 @@ form .btn-submit:hover {
 .footer-logo {
 	width: 60%;
 }
+=======
+>>>>>>> team-sec-modif
