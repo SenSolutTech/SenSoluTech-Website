@@ -75,9 +75,13 @@ body a {
 
 /*-----start-header----*/
 .bga {
-	background: url(../images/bg.jpg) no-repeat 0px 0px;
+	background: linear-gradient(
+		rgba(109, 179, 207, 0.45), 
+		rgba(35, 132, 170, 0.45)
+	  ), url(../images/bg.jpg) no-repeat 0px 0px;
 	background-size: cover;
-	min-height: 760px;
+	min-height: 800px;
+
 }
 
 .header {}
@@ -85,6 +89,12 @@ body a {
 .logo {
 	float: left;
 	margin-top: 0.6em;
+	left: 33px;
+}
+
+.logo a img{
+	width: 6.5rem;
+
 }
 
 .logo a {
@@ -2276,6 +2286,7 @@ form .btn-submit {
 form .btn-submit:hover {
 	background-color: #868686;;
 }
+<<<<<<< HEAD
 
 .footer-menu {
 	text-decoration: none;
@@ -2285,3 +2296,5 @@ form .btn-submit:hover {
 .footer-logo {
 	width: 60%;
 }
+=======
+>>>>>>> team-sec-modif

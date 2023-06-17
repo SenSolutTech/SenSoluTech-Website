@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="prev.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="6.725"
+     inkscape:cx="69.665428"
+     inkscape:cy="61.040892"
+     inkscape:window-width="1920"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="62.453532,72.862454"
+       orientation="1,0"
+       id="guide4868"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="76.877323,57.546468"
+       orientation="0,-1"
+       id="guide4870"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3298"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#289dcc;stop-opacity:1;"
+         offset="0"
+         id="stop3296" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1330"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1328" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath480">
+      <g
+         inkscape:label="Clip"
+         id="use482">
+        <path
+           style="fill:#ffffff"
+           id="path589"
+           sodipodi:type="arc"
+           sodipodi:cx="49.080818"
+           sodipodi:cy="52.174244"
+           sodipodi:rx="5.8961277"
+           sodipodi:ry="5.7414503"
+           sodipodi:start="0"
+           sodipodi:end="6.2819736"
+           sodipodi:arc-type="slice"
+           d="m 54.976946,52.174244 a 5.8961277,5.7414503 0 0 1 -5.894342,5.74145 5.8961277,5.7414503 0 0 1 -5.897912,-5.737972 5.8961277,5.7414503 0 0 1 5.890768,-5.744926 5.8961277,5.7414503 0 0 1 5.901482,5.734491 l -5.896124,0.007 z" />
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3298"
+       id="linearGradient3300"
+       x1="33.799065"
+       y1="56.639985"
+       x2="73.090209"
+       y2="56.639985"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9318309,0,0,3.5461558,-96.258126,-141.56664)" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:none;stroke:url(#linearGradient3300);stroke-width:1.93464;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path645"
+       cx="60.432556"
+       cy="59.287693"
+       rx="56.717884"
+       ry="52.569389" />
+    <path
+       style="fill:#ff0000;stroke:none;stroke-width:0.6;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path647"
+       sodipodi:type="arc"
+       sodipodi:cx="59.751755"
+       sodipodi:cy="55.012486"
+       sodipodi:rx="0.5844627"
+       sodipodi:ry="9.7572613"
+       sodipodi:start="0"
+       sodipodi:end="0.0025602708"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 60.336217,55.012486 a 0.5844627,9.7572613 0 0 1 -10e-7,0.02498" />
+    <path
+       style="opacity:1;fill:#289dcc;fill-opacity:1;stroke:#289dcc;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 88.657811,98.28129 8.1874164,60.434203 91.46891,22.33277 58.022446,60.432607 Z"
+       id="path4872" />
+  </g>
+</svg>
